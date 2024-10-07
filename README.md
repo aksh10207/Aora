@@ -24,17 +24,24 @@ Screenshots
 
 Below are screenshots showcasing the app's interface:
 
-    <img src="./screenshots/OnBoarding.jpeg" alt="Onboarding Screen" width="600" hieght="300"/>
+   ## Screenshots
+-----------
 
-    <img src="./screenshots/home.jpeg" alt="Home Feed" width="600"/>
+Below are screenshots showcasing the app's interface:
 
-    <img src="./screenshots/profile.jpeg" alt="Profile Page" width="600"/>
-    
-    <img src="./screenshots/create.jpeg" alt="Post Creation" width="600"/>
+*   Onboarding Screen  
+    ![Onboarding Screen](./screenshots/OnBoarding.jpeg){:height="300px" width="300px"}
+*   Home Feed  
+    ![Home Feed](./screenshots/home.jpeg){:height="300px" width="300px"}
+*   Profile Page  
+    ![Profile Page](./screenshots/profile.jpeg){:height="300px" width="300px"}
+*   Post Creation  
+    ![Post Creation](./screenshots/create.jpeg){:height="300px" width="300px"}
+*   Sign In Page  
+    ![Sign In Page](./screenshots/SIgnIn.jpeg){:height="300px" width="300px"}
+*   Sign Up Page  
+    ![Sign Up Page](./screenshots/Signup.jpeg){:height="300px" width="300px"}
 
-    <img src="./screenshots/SIgnIn.jpeg" alt="Sign In Page" width="600"/>
-
-    <img src="./screenshots/Signup.jpeg" alt="Sign Up Page" width="600"/>
 
 
 
