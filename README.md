@@ -17,9 +17,6 @@ Features
 *   **Responsive UI:** Sleek and user-friendly design for a seamless experience.
 
 
-   ## Screenshots
------------
-
 ## Screenshots
 -----------
 
