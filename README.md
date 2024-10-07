@@ -19,20 +19,24 @@ Features
 Screenshots
 -----------
 
+## Screenshots
+-----------
+
 Below are screenshots showcasing the app's interface:
 
 *   Onboarding Screen
-    ![Onboarding Screen](./screenshots/OnBoarding.jpeg)
+    <img src="./screenshots/OnBoarding.jpeg" alt="Onboarding Screen" width="600"/>
 *   Home Feed
-    ![Home Feed](./screenshots/home.jpeg)
+    <img src="./screenshots/home.jpeg" alt="Home Feed" width="600"/>
 *   Profile Page
-    ![Profile Page](./screenshots/profile.jpeg)
+    <img src="./screenshots/profile.jpeg" alt="Profile Page" width="600"/>
 *   Post Creation
-    ![Post Creation](./screenshots/create.jpeg)
+    <img src="./screenshots/create.jpeg" alt="Post Creation" width="600"/>
 *   Sign In Page
-    ![Sign In Page](./screenshots/SIgnIn.jpeg)
+    <img src="./screenshots/SIgnIn.jpeg" alt="Sign In Page" width="600"/>
 *   Sign Up Page
-    ![Sign Up Page](./screenshots/Signup.jpeg)
+    <img src="./screenshots/Signup.jpeg" alt="Sign Up Page" width="600"/>
+
 
 
 
