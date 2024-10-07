@@ -1,50 +1,89 @@
-# Welcome to your Expo app 👋
+     Aora - Full Stack React Native App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aora - Full Stack React Native App
+==================================
 
-## Get started
+Welcome to the Aora app! This project is a full-stack mobile application where users can share AI-generated videos. It leverages modern technologies like **React Native**, **Expo**, and **Appwrite** for seamless development and scalable functionality. The app features user authentication, file uploads, and a home feed to view recent posts, all while being backed by Appwrite for database management and authentication.
 
-1. Install dependencies
+Features
+--------
 
-   ```bash
-   npm install
-   ```
+*   **User Authentication:** Secure sign-up and login functionality powered by Appwrite.
+*   **File Uploads:** Easily upload and share AI-generated video content with cloud storage provided by Appwrite.
+*   **Home Feed:** View a feed of the most recent posts shared by users.
+*   **Appwrite Backend:** All backend services like database, authentication, and storage are managed by Appwrite.
+*   **React Native:** Cross-platform mobile app development with React Native.
+*   **Expo:** Seamless app development and deployment using Expo.
+*   **Responsive UI:** Sleek and user-friendly design for a seamless experience.
 
-2. Start the app
+Screenshots
+-----------
 
-   ```bash
-    npx expo start
-   ```
+Below are screenshots showcasing the app's interface:
 
-In the output, you'll find options to open the app in a
+*   Onboarding Screen
+    ![Onboarding Screen](./screenshots/OnBoarding.jpeg)
+*   Home Feed
+    ![Home Feed](./screenshots/home.jpeg)
+*   Profile Page
+    ![Profile Page](./screenshots/profile.jpeg)
+*   Post Creation
+    ![Post Creation](./screenshots/create.jpeg)
+*   Sign In Page
+    ![Sign In Page](./screenshots/SIgnIn.jpeg)
+*   Sign Up Page
+    ![Sign Up Page](./screenshots/Signup.jpeg)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+Installation
+------------
 
-When you're ready, run:
+1.  Clone the repository:
+    
+        git clone https://github.com/aksh10207/Aora.git
+    
+2.  Open the project in your code editor:
+    
+        cd Aora
+    
+3.  Install all dependencies:
+    
+        npm install
+    
+4.  Run the app using Expo:
+    
+        npx expo start -c
+    
+5.  Set up Appwrite backend:
+    1.  Follow the [Appwrite documentation](https://appwrite.io/docs) to set up your backend.
+    2.  Configure authentication and storage for the Aora app.
 
-```bash
-npm run reset-project
-```
+Usage
+-----
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1.  Open the app and create a user account using Appwrite authentication.
+2.  Login to your account to access the home feed and upload videos.
+3.  Start sharing AI-generated videos with other users and explore posts in the home feed.
 
-## Learn more
+Technologies Used
+-----------------
 
-To learn more about developing your project with Expo, look at the following resources:
+*   **React Native:** For building a cross-platform mobile app.
+*   **Expo:** For easy development and deployment of the mobile app.
+*   **Appwrite:** Backend services for authentication, storage, and database.
+*   **Tailwind CSS:** For creating a modern and responsive UI.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+License
+-------
 
-## Join the community
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
 
-Join our community of developers creating universal apps.
+Contact
+-------
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+If you have any questions or suggestions, feel free to reach out to me:
+
+*   **Name:** Akshay Srivastava
+*   **GitHub:** [aksh10207](https://github.com/aksh10207)
+*   **Email:** [akshaysri0844@gmail.com](mailto:akshaysri0844@gmail.com)
