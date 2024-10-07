@@ -16,13 +16,6 @@ Features
 *   **Expo:** Seamless app development and deployment using Expo.
 *   **Responsive UI:** Sleek and user-friendly design for a seamless experience.
 
-Screenshots
------------
-
-## Screenshots
------------
-
-Below are screenshots showcasing the app's interface:
 
    ## Screenshots
 -----------
@@ -30,7 +23,7 @@ Below are screenshots showcasing the app's interface:
 Below are screenshots showcasing the app's interface:
 
 *   Onboarding Screen  
-    ![Onboarding Screen](./screenshots/OnBoarding.jpeg){:height="300px" width="300px"}
+    ![Onboarding Screen](./screenshots/OnBoarding.jpeg){:height="100px" width="100px"}
 *   Home Feed  
     ![Home Feed](./screenshots/home.jpeg){:height="300px" width="300px"}
 *   Profile Page  
