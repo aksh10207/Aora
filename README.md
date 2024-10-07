@@ -26,22 +26,22 @@ Features
 Below are screenshots showcasing the app's interface:
 
 *   Onboarding Screen  
-    <img src="./screenshots/OnBoarding.jpeg" alt="Onboarding Screen" width="400" height="600"/>
+    <img src="./screenshots/OnBoarding.jpeg" alt="Onboarding Screen" width="400" height="800"/>
 
 *   Home Feed  
-    <img src="./screenshots/home.jpeg" alt="Home Feed" width="400" height="600"/>
+    <img src="./screenshots/home.jpeg" alt="Home Feed" width="400" height="800"/>
 
 *   Profile Page  
-    <img src="./screenshots/profile.jpeg" alt="Profile Page" width="400" height="600"/>
+    <img src="./screenshots/profile.jpeg" alt="Profile Page" width="400" height="800"/>
 
 *   Post Creation  
-    <img src="./screenshots/create.jpeg" alt="Post Creation" width="400" height="600"/>
+    <img src="./screenshots/create.jpeg" alt="Post Creation" width="400" height="800"/>
 
 *   Sign In Page  
-    <img src="./screenshots/SIgnIn.jpeg" alt="Sign In Page" width="400" height="600"/>
+    <img src="./screenshots/SIgnIn.jpeg" alt="Sign In Page" width="400" height="800"/>
 
 *   Sign Up Page  
-    <img src="./screenshots/Signup.jpeg" alt="Sign Up Page" width="400" height="600"/>
+    <img src="./screenshots/Signup.jpeg" alt="Sign Up Page" width="400" height="800"/>
 
 
 
