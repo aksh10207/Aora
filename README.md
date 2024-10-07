@@ -23,17 +23,17 @@ Features
 Below are screenshots showcasing the app's interface:
 
 *   Onboarding Screen  
-    ![Onboarding Screen](./screenshots/OnBoarding.jpeg){:height="100px" width="100px"}
+    ![Onboarding Screen](./screenshots/OnBoarding.jpeg)
 *   Home Feed  
-    ![Home Feed](./screenshots/home.jpeg){:height="300px" width="300px"}
+    ![Home Feed](./screenshots/home.jpeg)
 *   Profile Page  
-    ![Profile Page](./screenshots/profile.jpeg){:height="300px" width="300px"}
+    ![Profile Page](./screenshots/profile.jpeg)
 *   Post Creation  
-    ![Post Creation](./screenshots/create.jpeg){:height="300px" width="300px"}
+    ![Post Creation](./screenshots/create.jpeg)
 *   Sign In Page  
-    ![Sign In Page](./screenshots/SIgnIn.jpeg){:height="300px" width="300px"}
+    ![Sign In Page](./screenshots/SIgnIn.jpeg)
 *   Sign Up Page  
-    ![Sign Up Page](./screenshots/Signup.jpeg){:height="300px" width="300px"}
+    ![Sign Up Page](./screenshots/Signup.jpeg)
 
 
 
