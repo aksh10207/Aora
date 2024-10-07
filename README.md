@@ -1,4 +1,4 @@
-     Aora - Full Stack React Native App
+
 
 Aora - Full Stack React Native App
 ==================================
